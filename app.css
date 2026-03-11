@@ -1,9 +1,14 @@
 h1
 {
-    color: blue;
+    color: red;
 }
 
 body
 {
-    background-color: green;
+    background-color: yellow;
+}
+
+h3
+{
+    color: pink;
 }
